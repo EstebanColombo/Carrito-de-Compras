@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 3000,
+      "id": 1,
+      "title": "Auriculares",
+      "thumbnailUrl": "images/jbl.jpg"
+    },
+    {
+      "precio": 50000,
+      "id": 2,
+      "title": "Laptop HP",
+      "thumbnailUrl": "images/laptop_hp.jpg"
+    },
+    {
+      "precio": 65000,
+      "id": 3,
+      "title": "Laptop Toshiba",
+      "thumbnailUrl": "images/laptop_toshiba.jpg"
+    },
+    {
+      "precio": 7500,
+      "id": 4,
+      "title": "Monitor Asus",
+      "thumbnailUrl": "images/monitor_asus.jpg"
+    },
+    {
+      "precio": 65000,
+      "id": 5,
+      "title": "PC HP",
+      "thumbnailUrl": "images/pc_hp.jpg"
+    },
+    {
+      "precio": 50000,
+      "id": 6,
+      "title": "PC Lenovo",
+      "thumbnailUrl": "images/pc_lenovo.jpg"
+    }
+  ]
